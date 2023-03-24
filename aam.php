@@ -23,6 +23,10 @@
  * @version 6.0.0
  */
 /*added first local commit*/
+newfuncionto be added here
+funcion variable(){
+ var_dump(variable);
+}
 class AAM
 {
 
