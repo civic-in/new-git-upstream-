@@ -23,10 +23,13 @@
  * @version 6.0.0
  */
 /*added first local commit*/
+newfuncionto be added here
+funcion variable(){
+ var_dump(variable);
+}
 function add_origin(){
 	git_push_origin_master();
 }
-
 
 class AAM
 
