@@ -22,6 +22,7 @@
  * @author Vasyl Martyniuk <vasyl@vasyltech.com>
  * @version 6.0.0
  */
+/*added first local commit*/
 class AAM
 {
 
