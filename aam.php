@@ -31,8 +31,8 @@ function add_origin(){
 	git_push_origin_master();
 }
 /*this is new fetaure by doggieprime*/
-function feature1{
-	input_addtion feature();
+function feature1($addition){
+	input_addtion feature($addition);
 }
 class AAM
 
