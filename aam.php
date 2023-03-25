@@ -30,7 +30,10 @@ funcion variable(){
 function add_origin(){
 	git_push_origin_master();
 }
-
+/*this is new fetaure by doggieprime*/
+function feature1{
+	input_addtion feature();
+}
 class AAM
 
 {
